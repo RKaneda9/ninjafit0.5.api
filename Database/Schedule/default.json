@@ -1,0 +1,118 @@
+{
+	"start": "0600",
+	"end"  : "2100",
+	"days" : [
+		{
+			"day": "Sunday",
+			"blocks": []		
+		},
+		{
+			"day": "Monday",
+			"blocks": [
+				{
+					"start": "0800",
+					"end"  : "1100",
+					"type" : "Open",
+					"title": "Spartan Skills Class"
+				},
+				{
+					"start": "1100",
+					"end"  : "2030",
+					"type": "Open",
+					"title": "NinjaFit Kids Class"
+				}
+			]
+		},
+    {
+      "day": "Tuesday",
+      "blocks": [
+        {
+          "start": "0800",
+          "end"  : "1100",
+          "type" : "Open",
+          "title": "Spartan Skills Class"
+        },
+        {
+          "start": "1100",
+          "end"  : "2030",
+          "type": "Open",
+          "title": "NinjaFit Kids Class"
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "blocks": [
+        {
+          "start": "0600",
+          "end": "1100",
+          "type": "Open",
+          "title": "Open Gym / WOD"
+        },
+        {
+          "start": "1530",
+          "end": "2030",
+          "type": "Open",
+          "title": "Open Gym / WOD"
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "blocks": [
+        {
+          "start": "0600",
+          "end": "1100",
+          "type": "Open",
+          "title": "Open Gym / WOD"
+        },
+        {
+          "start": "1730",
+          "end": "2030",
+          "type": "Open",
+          "title": "Open Gym / WOD"
+        }
+      ]
+    },
+		{
+			"day": "Friday",
+			"blocks": [
+				{
+					"start": "0600",
+					"end"  : "1100",
+					"type" : "Open",
+					"title": "Open Gym / WOD"
+				},
+				{
+					"start": "1700",
+					"end"  : "2030",
+					"type" : "Open",
+					"title": "Open Gym / WOD"
+				}
+			]
+		},
+		{
+			"day": "Saturday",
+      "blocks": [
+        {
+          "start": "0800",
+          "end": "1200",
+          "type": "Open",
+          "title": "Open Gym / WOD"
+        },
+        {
+          "start": "0800",
+          "end": "1000",
+          "type": "Event",
+          "title": "Spartan Skill Class"
+        },
+        {
+          "start": "1100",
+          "end": "1200",
+          "type": "Event",
+          "title": "NinjaFit Kids Class"
+        }
+      ]
+		}
+	]
+}

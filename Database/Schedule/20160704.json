@@ -1,0 +1,10 @@
+{
+	"blocks": [
+		{
+			"start": "0700",
+			"end"  : "1200",
+			"type" : "Open",
+			"title": "Open Gym"
+		}
+	]
+}
